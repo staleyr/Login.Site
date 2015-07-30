@@ -1,0 +1,5 @@
+C:\Users\rstaley\Documents\GitHub\Depict.Site\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+C:\Users\rstaley\Documents\GitHub\Depict.Site\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+C:\Users\rstaley\Documents\GitHub\Depict.Site\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\Login.Site.csprojResolveAssemblyReference.cache
+C:\Users\rstaley\Documents\GitHub\Depict.Site\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+C:\Users\rstaley\Documents\GitHub\Depict.Site\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
